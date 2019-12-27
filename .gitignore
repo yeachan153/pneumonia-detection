@@ -1,0 +1,5 @@
+# Folders
+data
+
+# Cache
+.mypy_cache
