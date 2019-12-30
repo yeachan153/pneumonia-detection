@@ -1,0 +1,9 @@
+pandas
+pydicom
+cv2
+opencv-python
+tqdm
+matplotlib
+numpy
+tensorflow
+keras

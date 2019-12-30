@@ -3,3 +3,9 @@ data
 
 # Cache
 .mypy_cache
+
+# Notebooks
+.ipynb_checkpoints
+
+# Other
+*.pyc
